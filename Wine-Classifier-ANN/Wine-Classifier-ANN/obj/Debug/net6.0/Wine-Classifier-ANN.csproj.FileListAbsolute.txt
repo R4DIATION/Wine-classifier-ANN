@@ -1,0 +1,14 @@
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\bin\Debug\net6.0\Wine-Classifier-ANN.exe
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\bin\Debug\net6.0\Wine-Classifier-ANN.deps.json
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\bin\Debug\net6.0\Wine-Classifier-ANN.runtimeconfig.json
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\bin\Debug\net6.0\Wine-Classifier-ANN.dll
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\bin\Debug\net6.0\Wine-Classifier-ANN.pdb
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\Wine-Classifier-ANN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\Wine-Classifier-ANN.AssemblyInfoInputs.cache
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\Wine-Classifier-ANN.AssemblyInfo.cs
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\Wine-Classifier-ANN.csproj.CoreCompileInputs.cache
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\Wine-Classifier-ANN.dll
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\refint\Wine-Classifier-ANN.dll
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\Wine-Classifier-ANN.pdb
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\Wine-Classifier-ANN.genruntimeconfig.cache
+C:\Users\dania\source\repos\Wine-Classifier-ANN\Wine-Classifier-ANN\obj\Debug\net6.0\ref\Wine-Classifier-ANN.dll
